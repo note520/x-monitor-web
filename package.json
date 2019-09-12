@@ -1,0 +1,27 @@
+{
+  "name": "x-monitor-web",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/x-monitor-web.js",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "tm-server",
+    "build": "tm-build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/note520/x-monitor-web.git"
+  },
+  "author": "ricopter@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "cross-env": "^5.2.0",
+    "qs": "^6.7.0",
+    "typescript": "^3.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.9",
+    "tm-build": "^0.1.0"
+  }
+}
