@@ -1,0 +1,7 @@
+{
+  "files": [
+		"dist/x-monitor-web",
+		"LICENSE",
+		"package.json"
+	]
+}

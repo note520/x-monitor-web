@@ -1,5 +1,5 @@
 {
-  "name": "x-monitor-web",
+  "name": "@xsyx/x-monitor-web",
   "version": "0.1.0",
   "description": "",
   "main": "dist/x-monitor-web.js",
